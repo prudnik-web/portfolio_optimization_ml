@@ -1,0 +1,12 @@
+numba==0.60.0
+numpy==2.0
+pandas==2.2.3
+peewee==3.17.8
+plotly==5.24.1
+pywin32==308
+scipy==1.14.1
+yfinance==0.2.50
+tensorflow==2.18.0
+scikit-learn==1.5.2
+notebook==7.2.2
+pytickersymbols
